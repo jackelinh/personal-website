@@ -11,6 +11,6 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\n\nrunif(10)\n\n [1] 0.5958682 0.7395991 0.9126024 0.6795408 0.3887927 0.6140299 0.8031420\n [8] 0.7318315 0.2240383 0.3086114"
   }
 ]
