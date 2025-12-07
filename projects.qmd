@@ -2,6 +2,24 @@
 toc: false
 ---
 
-## Project 1
+## Project 1: Stats 140XP
 
-## Project 2
+- Conducted exploratory data analysis (EDA) on LAPD traffic collision data to identify patterns and trends.
+
+- Developed research questions based on insights from the EDA.
+
+- Applied statistical models, using R, to analyze data and draw meaningful conclusions
+for each research question.
+
+- Compiled and presented results in a comprehensive report, relating findings to external
+sources.
+
+## Project 2: Stats 101B
+
+-   Performed daily data collection within a simulation structured to mimic real-world participant activity.
+-   Designed an experiment and used R to create statistical models and plots to interpret results.
+-   Compiled and presented results in a comprehensive report, relating findings to external sources.
+
+## Project 3: Stats 101A
+
+-   Cleaned three data sets using Python

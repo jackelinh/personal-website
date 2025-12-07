@@ -1,5 +1,6 @@
 project:
   type: website
+  resources: CV.pdf
 
 website:
   title: ""

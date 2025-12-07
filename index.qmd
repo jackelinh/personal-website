@@ -12,8 +12,12 @@ about:
     - text: Email
       url: "mailto:09jackelinhernandez@gmail.com"
       icon: inbox-fill
+    - text: CV
+      url: "CV.pdf"
 toc: false
 ---
+
+Jackelin Hernandez is a current undergraduate at UCLA.
 
 ## Education
 
