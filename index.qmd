@@ -17,8 +17,8 @@ about:
 toc: false
 ---
 
-Jackelin Hernandez is a current undergraduate at UCLA.
+Jackelin Hernandez is a recent graduate from UCLA.
 
 ## Education
 
-University of California, Los Angeles | Los Angeles, CA | B.S in Statistics and Data Science | Sept 2022 - present
+University of California, Los Angeles | Los Angeles, CA | B.S in Statistics and Data Science | Sept 2022 - June 2026
