@@ -1,35 +1,14 @@
 [
   {
-    "objectID": "projects.html#project-2",
-    "href": "projects.html#project-2",
-    "title": "",
-    "section": "Project 2",
-    "text": "Project 2"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Jackelin Hernandez",
-    "section": "",
-    "text": "Jackelin Hernandez is a current undergraduate at UCLA."
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Jackelin Hernandez",
-    "section": "Education",
-    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA | B.S in Statistics and Data Science | Sept 2022 - present"
-  },
-  {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Jackelin Hernandez",
-    "section": "Experience",
-    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
-  },
-  {
     "objectID": "projects.html",
     "href": "projects.html",
+    "title": "",
+    "section": "",
+    "text": "University of California, Los Angeles\n\nClass Projects\n\n\n\n\n\n\n\n\n\n\n\nCourse #\nCourse Name\nQuarter\n\n\n\n\nStats 170\nIntroduction to Time-Series Analysis\n\nDeveloped and executed a comprehensive time-series analysis on 13 years of Amazon (AMXN) closing prices to evaluate and forecast log-return trends.\nTested and compared multiple candidate models to justify modeling decisions.\nEvaluated model adequacy by performing diagnostic checks, residual analysis, and autocorrelation testing to validate statistical assumptions.\nDesigned a technical report using Quarto in R to generate data visualizations and document statistical findings.\n\nSpring 2026\n\n\nStats C173\nApplied Geostatistics\n\nEngineered a spatial data pipeline in R to analyze EPA’s Outdoor Air Quality dataset, focusing on Ozone metrics, executing non-spatial exploratory data analysis (EDA) and auditing coordinated structures to ensure unique data points.\nConstructed and analyzed h-scatterplots and empirical variograms to model spatial continuity, directional dependence, and geometric anisotropy across target coordinate spaces.\nDeployed theoretical variogram models and Kriging algorithms to predict continuous Ozone concentrations across unsampled regions throughout California.\nValidated model performance by conducting rigorous cross-validation and residual analysis to quantify prediction error and ensure statistical adequacy.\n\nWinter 2026\n\n\nStats 133\nIntroduction to Text Mining Using R\n\nEngineered a text mining pipeline in R to clean, tokenize, and analyze text data from the Billboard Top 100 hits spanning from 1959 to 2023.\nConducted sentiment analysis and emotion mining using the VADER and NRC lexicons to quantify emotional shifts and linguistic trends in popular music across the decades. Developed data visualizations in R using ggplot2 to chart emotional trajectories and deployed the wordcloud2 package to isolate the most frequent terms.\nCompiled a cohesive report that synthesized advanced natural language processing (NLP) metrics with analytical commentary and data-driven insights.\n\nWinter 2026\n\n\nStats 140XP\nPractice of Statistical Consulting\n\nConducted exploratory data analysis (EDA) on LAPD traffic collision data to identify patterns and trends. Developed research questions based on insights from the EDA.\nApplied statistical models, using R, to analyze data and draw meaningful conclusions for each research question.\nCompiled and presented results in a comprehensive report, relating findings to external sources.\n\nFall 2025\n\n\nStats 101A\nIntroduction to Data Analysis and Regression\n\nCleaned and conducted exploratory data analysis on raw data sets to identify patterns and trends using Python.\nEvaluated statistical models, selecting the best algorithm based on evaluation metrics and feature importance rankings.\nBuilt an end-to-end pipeline to split data into training and test sets, generating final predictions on unseen data, and exporting results to CSV.\n\nSpring 2024"
+  },
+  {
+    "objectID": "projects.html#project-1-stats-140xp",
+    "href": "projects.html#project-1-stats-140xp",
     "title": "",
     "section": "",
     "text": "Conducted exploratory data analysis (EDA) on LAPD traffic collision data to identify patterns and trends.\nDeveloped research questions based on insights from the EDA.\nApplied statistical models, using R, to analyze data and draw meaningful conclusions for each research question.\nCompiled and presented results in a comprehensive report, relating findings to external sources."
@@ -42,24 +21,227 @@
     "text": "Project 2: Stats 101B\n\nPerformed daily data collection within a simulation structured to mimic real-world participant activity.\nDesigned an experiment and used R to create statistical models and plots to interpret results.\nCompiled and presented results in a comprehensive report, relating findings to external sources."
   },
   {
-    "objectID": "projects.html#project-3-stats-140xp",
-    "href": "projects.html#project-3-stats-140xp",
-    "title": "",
-    "section": "Project 3: Stats 140XP",
-    "text": "Project 3: Stats 140XP"
-  },
-  {
-    "objectID": "projects.html#project-1-stats-140xp",
-    "href": "projects.html#project-1-stats-140xp",
-    "title": "",
-    "section": "",
-    "text": "Conducted exploratory data analysis (EDA) on LAPD traffic collision data to identify patterns and trends.\nDeveloped research questions based on insights from the EDA.\nApplied statistical models, using R, to analyze data and draw meaningful conclusions for each research question.\nCompiled and presented results in a comprehensive report, relating findings to external sources."
-  },
-  {
     "objectID": "projects.html#project-3-stats-101a",
     "href": "projects.html#project-3-stats-101a",
     "title": "",
     "section": "Project 3: Stats 101A",
     "text": "Project 3: Stats 101A\n\nCleaned three data sets using Python"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jackelin Hernandez",
+    "section": "",
+    "text": "Jackelin Hernandez is a recent graduate from UCLA."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Jackelin Hernandez",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA | B.S in Statistics and Data Science | Sept 2022 - June 2026"
+  },
+  {
+    "objectID": "class projects.html",
+    "href": "class projects.html",
+    "title": "",
+    "section": "",
+    "text": "Conducted exploratory data analysis (EDA) on LAPD traffic collision data to identify patterns and trends.\nDeveloped research questions based on insights from the EDA.\nApplied statistical models, using R, to analyze data and draw meaningful conclusions for each research question.\nCompiled and presented results in a comprehensive report, relating findings to external sources."
+  },
+  {
+    "objectID": "class projects.html#project-1-stats-140xp",
+    "href": "class projects.html#project-1-stats-140xp",
+    "title": "",
+    "section": "",
+    "text": "Conducted exploratory data analysis (EDA) on LAPD traffic collision data to identify patterns and trends.\nDeveloped research questions based on insights from the EDA.\nApplied statistical models, using R, to analyze data and draw meaningful conclusions for each research question.\nCompiled and presented results in a comprehensive report, relating findings to external sources."
+  },
+  {
+    "objectID": "class projects.html#project-2-stats-101b",
+    "href": "class projects.html#project-2-stats-101b",
+    "title": "",
+    "section": "Project 2: Stats 101B",
+    "text": "Project 2: Stats 101B\n\nPerformed daily data collection within a simulation structured to mimic real-world participant activity.\nDesigned an experiment and used R to create statistical models and plots to interpret results.\nCompiled and presented results in a comprehensive report, relating findings to external sources."
+  },
+  {
+    "objectID": "class projects.html#project-3-stats-101a",
+    "href": "class projects.html#project-3-stats-101a",
+    "title": "",
+    "section": "Project 3: Stats 101A",
+    "text": "Project 3: Stats 101A\n\nCleaned three data sets using Python"
+  },
+  {
+    "objectID": "class projects.html#project-1-stats-170-final-project---introduction-to-time-series-analysis",
+    "href": "class projects.html#project-1-stats-170-final-project---introduction-to-time-series-analysis",
+    "title": "March 2026 - June 2026",
+    "section": "",
+    "text": "Developed and executed a comprehensive time-series analysis on 13 years of Amazon (AMXN) closing prices to evaluate and forecast log-return trends.\nTested and compared multiple candidate models to justify modeling decisions.\nEvaluated model adequacy by performing diagnostic checks, residual analysis, and autocorrelation testing to validate statistical assumptions.\nDesigned a technical report using Quarto in R to generate data visualizations and document statistical findings."
+  },
+  {
+    "objectID": "class projects.html#project-2-stats-c173-final-project---applied-geostatistics",
+    "href": "class projects.html#project-2-stats-c173-final-project---applied-geostatistics",
+    "title": "March 2026 - June 2026",
+    "section": "Project 2: Stats C173 Final Project - Applied Geostatistics",
+    "text": "Project 2: Stats C173 Final Project - Applied Geostatistics\n\nEngineered a spatial data pipeline in R to analyze EPA’s Outdoor Air Quality dataset, focusing on Ozone metrics, executing non-spatial exploratory data analysis (EDA) and auditing coordinated structures to ensure unique data points.\nConstructed and analyzed h-scatterplots and empirical variograms to model spatial continuity, directional dependence, and geometric anisotropy across target coordinate spaces.\nDeployed theoretical variogram models and Kriging algorithms to predict continuous Ozone concentrations across unsampled regions throughout California\nValidated model performance by conducting rigorous cross-validation and residual analysis to quantify prediction error and ensure statistical adequacy"
+  },
+  {
+    "objectID": "class projects.html#project-3-stats-141xp-final-project---practice-of-statistical-consulting",
+    "href": "class projects.html#project-3-stats-141xp-final-project---practice-of-statistical-consulting",
+    "title": "March 2026 - June 2026",
+    "section": "Project 3: Stats 141XP Final Project - Practice of Statistical Consulting",
+    "text": "Project 3: Stats 141XP Final Project - Practice of Statistical Consulting\n\n…"
+  },
+  {
+    "objectID": "class projects.html#project-4-stats-133-final-project---introduction-to-text-mining-using-r",
+    "href": "class projects.html#project-4-stats-133-final-project---introduction-to-text-mining-using-r",
+    "title": "March 2026 - June 2026",
+    "section": "Project 4: Stats 133 Final Project - Introduction to Text Mining Using R",
+    "text": "Project 4: Stats 133 Final Project - Introduction to Text Mining Using R\n\nEngineered a text mining pipeline in R to clean, tokenize, and analyze text data from the Billboard Top 100 hits spanning from 1959 to 2023.\nConducted sentiment analysis and emotion mining using the VADER and NRC lexicons to quantify emotional shifts and linguistic trends in popular music across the decades.\nDeveloped data visualizations in R using ggplot2 to chart emotional trajectories and deployed the wordcloud2 package to isolate the most frequent terms.\nCompiled a cohesive report that synthesized advanced natural language processing (NLP) metrics with analytical commentary and data-driven insights."
+  },
+  {
+    "objectID": "class projects.html#project-5-stats-101c-regression-project---introduction-to-statistical-models-and-data-mining",
+    "href": "class projects.html#project-5-stats-101c-regression-project---introduction-to-statistical-models-and-data-mining",
+    "title": "March 2026 - June 2026",
+    "section": "Project 5: Stats 101C Regression Project - Introduction to Statistical Models and Data Mining",
+    "text": "Project 5: Stats 101C Regression Project - Introduction to Statistical Models and Data Mining\n\n…"
+  },
+  {
+    "objectID": "class projects.html#project-6-stats-101c-classification-project---introduction-to-statistical-models-and-data-mining",
+    "href": "class projects.html#project-6-stats-101c-classification-project---introduction-to-statistical-models-and-data-mining",
+    "title": "March 2026 - June 2026",
+    "section": "Project 6: Stats 101C Classification Project - Introduction to Statistical Models and Data Mining",
+    "text": "Project 6: Stats 101C Classification Project - Introduction to Statistical Models and Data Mining\n\n…"
+  },
+  {
+    "objectID": "class projects.html#project-7-stats-140xp-final-project---practice-of-statistical-consulting",
+    "href": "class projects.html#project-7-stats-140xp-final-project---practice-of-statistical-consulting",
+    "title": "March 2026 - June 2026",
+    "section": "Project 7: Stats 140XP Final Project - Practice of Statistical Consulting",
+    "text": "Project 7: Stats 140XP Final Project - Practice of Statistical Consulting\n\nConducted exploratory data analysis (EDA) on LAPD traffic collision data to identify patterns and trends. Developed research questions based on insights from the EDA.\nApplied statistical models, using R, to analyze data and draw meaningful conclusions for each research question.\nCompiled and presented results in a comprehensive report, relating findings to external sources."
+  },
+  {
+    "objectID": "class projects.html#project-8-stats-101a-final-project---introduction-to-data-analysis-and-regression",
+    "href": "class projects.html#project-8-stats-101a-final-project---introduction-to-data-analysis-and-regression",
+    "title": "March 2026 - June 2026",
+    "section": "Project 8: Stats 101A Final Project - Introduction to Data Analysis and Regression",
+    "text": "Project 8: Stats 101A Final Project - Introduction to Data Analysis and Regression\n\nCleaned and conducted exploratory data analysis on raw data sets to identify patterns and trends using Python.\nEvaluated statistical models, selecting the best algorithm based on evaluation metrics and feature importance rankings.\nBuilt an end-to-end pipeline to split data into training and test sets, generating final predictions on unseen data, and exporting results to CSV."
+  },
+  {
+    "objectID": "class projects.html#project-stats-101b",
+    "href": "class projects.html#project-stats-101b",
+    "title": "March 2026 - June 2026",
+    "section": "Project ?: Stats 101B",
+    "text": "Project ?: Stats 101B"
+  },
+  {
+    "objectID": "class projects.html#project",
+    "href": "class projects.html#project",
+    "title": "March 2026 - June 2026",
+    "section": "Project ?:",
+    "text": "Project ?:"
+  },
+  {
+    "objectID": "projects.html#project-1-stats-170-final-project---introduction-to-time-series-analysis",
+    "href": "projects.html#project-1-stats-170-final-project---introduction-to-time-series-analysis",
+    "title": "March 2026 - June 2026",
+    "section": "",
+    "text": "Developed and executed a comprehensive time-series analysis on 13 years of Amazon (AMXN) closing prices to evaluate and forecast log-return trends.\nTested and compared multiple candidate models to justify modeling decisions.\nEvaluated model adequacy by performing diagnostic checks, residual analysis, and autocorrelation testing to validate statistical assumptions.\nDesigned a technical report using Quarto in R to generate data visualizations and document statistical findings."
+  },
+  {
+    "objectID": "projects.html#project-2-stats-c173-final-project---applied-geostatistics",
+    "href": "projects.html#project-2-stats-c173-final-project---applied-geostatistics",
+    "title": "March 2026 - June 2026",
+    "section": "Project 2: Stats C173 Final Project - Applied Geostatistics",
+    "text": "Project 2: Stats C173 Final Project - Applied Geostatistics\n\nEngineered a spatial data pipeline in R to analyze EPA’s Outdoor Air Quality dataset, focusing on Ozone metrics, executing non-spatial exploratory data analysis (EDA) and auditing coordinated structures to ensure unique data points.\nConstructed and analyzed h-scatterplots and empirical variograms to model spatial continuity, directional dependence, and geometric anisotropy across target coordinate spaces.\nDeployed theoretical variogram models and Kriging algorithms to predict continuous Ozone concentrations across unsampled regions throughout California\nValidated model performance by conducting rigorous cross-validation and residual analysis to quantify prediction error and ensure statistical adequacy"
+  },
+  {
+    "objectID": "projects.html#project-3-stats-141xp-final-project---practice-of-statistical-consulting",
+    "href": "projects.html#project-3-stats-141xp-final-project---practice-of-statistical-consulting",
+    "title": "March 2026 - June 2026",
+    "section": "Project 3: Stats 141XP Final Project - Practice of Statistical Consulting",
+    "text": "Project 3: Stats 141XP Final Project - Practice of Statistical Consulting\n\n…"
+  },
+  {
+    "objectID": "projects.html#project-4-stats-133-final-project---introduction-to-text-mining-using-r",
+    "href": "projects.html#project-4-stats-133-final-project---introduction-to-text-mining-using-r",
+    "title": "March 2026 - June 2026",
+    "section": "Project 4: Stats 133 Final Project - Introduction to Text Mining Using R",
+    "text": "Project 4: Stats 133 Final Project - Introduction to Text Mining Using R\n\nEngineered a text mining pipeline in R to clean, tokenize, and analyze text data from the Billboard Top 100 hits spanning from 1959 to 2023.\nConducted sentiment analysis and emotion mining using the VADER and NRC lexicons to quantify emotional shifts and linguistic trends in popular music across the decades.\nDeveloped data visualizations in R using ggplot2 to chart emotional trajectories and deployed the wordcloud2 package to isolate the most frequent terms.\nCompiled a cohesive report that synthesized advanced natural language processing (NLP) metrics with analytical commentary and data-driven insights."
+  },
+  {
+    "objectID": "projects.html#project-5-stats-101c-regression-project---introduction-to-statistical-models-and-data-mining",
+    "href": "projects.html#project-5-stats-101c-regression-project---introduction-to-statistical-models-and-data-mining",
+    "title": "March 2026 - June 2026",
+    "section": "Project 5: Stats 101C Regression Project - Introduction to Statistical Models and Data Mining",
+    "text": "Project 5: Stats 101C Regression Project - Introduction to Statistical Models and Data Mining\n\n…"
+  },
+  {
+    "objectID": "projects.html#project-6-stats-101c-classification-project---introduction-to-statistical-models-and-data-mining",
+    "href": "projects.html#project-6-stats-101c-classification-project---introduction-to-statistical-models-and-data-mining",
+    "title": "March 2026 - June 2026",
+    "section": "Project 6: Stats 101C Classification Project - Introduction to Statistical Models and Data Mining",
+    "text": "Project 6: Stats 101C Classification Project - Introduction to Statistical Models and Data Mining\n\n…"
+  },
+  {
+    "objectID": "projects.html#project-7-stats-140xp-final-project---practice-of-statistical-consulting",
+    "href": "projects.html#project-7-stats-140xp-final-project---practice-of-statistical-consulting",
+    "title": "March 2026 - June 2026",
+    "section": "Project 7: Stats 140XP Final Project - Practice of Statistical Consulting",
+    "text": "Project 7: Stats 140XP Final Project - Practice of Statistical Consulting\n\nConducted exploratory data analysis (EDA) on LAPD traffic collision data to identify patterns and trends. Developed research questions based on insights from the EDA.\nApplied statistical models, using R, to analyze data and draw meaningful conclusions for each research question.\nCompiled and presented results in a comprehensive report, relating findings to external sources."
+  },
+  {
+    "objectID": "projects.html#project-8-stats-101a-final-project---introduction-to-data-analysis-and-regression",
+    "href": "projects.html#project-8-stats-101a-final-project---introduction-to-data-analysis-and-regression",
+    "title": "March 2026 - June 2026",
+    "section": "Project 8: Stats 101A Final Project - Introduction to Data Analysis and Regression",
+    "text": "Project 8: Stats 101A Final Project - Introduction to Data Analysis and Regression\n\nCleaned and conducted exploratory data analysis on raw data sets to identify patterns and trends using Python.\nEvaluated statistical models, selecting the best algorithm based on evaluation metrics and feature importance rankings.\nBuilt an end-to-end pipeline to split data into training and test sets, generating final predictions on unseen data, and exporting results to CSV."
+  },
+  {
+    "objectID": "projects.html#project-stats-101b",
+    "href": "projects.html#project-stats-101b",
+    "title": "March 2026 - June 2026",
+    "section": "Project ?: Stats 101B",
+    "text": "Project ?: Stats 101B"
+  },
+  {
+    "objectID": "projects.html#project",
+    "href": "projects.html#project",
+    "title": "March 2026 - June 2026",
+    "section": "Project ?:",
+    "text": "Project ?:\n\nUniversity of California, Los Angeles\n\nClass Projects\n\n\n\n\n\n\n\n\n\n\n\nCourse #\nCourse Name\nQuarter\n\n\n\n\nStats 170\nIntroduction to Time-Series Analysis\n\nDeveloped and executed a comprehensive time-series analysis on 13 years of Amazon (AMXN) closing prices to evaluate and forecast log-return trends.\nTested and compared multiple candidate models to justify modeling decisions.\nEvaluated model adequacy by performing diagnostic checks, residual analysis, and autocorrelation testing to validate statistical assumptions.\nDesigned a technical report using Quarto in R to generate data visualizations and document statistical findings.\n\nSpring 2026\n\n\nStats C173\nApplied Geostatistics\n\nEngineered a spatial data pipeline in R to analyze EPA’s Outdoor Air Quality dataset, focusing on Ozone metrics, executing non-spatial exploratory data analysis (EDA) and auditing coordinated structures to ensure unique data points.\nConstructed and analyzed h-scatterplots and empirical variograms to model spatial continuity, directional dependence, and geometric anisotropy across target coordinate spaces.\nDeployed theoretical variogram models and Kriging algorithms to predict continuous Ozone concentrations across unsampled regions throughout California.\nValidated model performance by conducting rigorous cross-validation and residual analysis to quantify prediction error and ensure statistical adequacy.\n\nWinter 2026\n\n\nStats 141XP\nPractice of Statistical Consulting\n\n...\n...\n...\n\nWinter 2026\n\n\nStats 133\nIntroduction to Text Mining Using R\n\nEngineered a text mining pipeline in R to clean, tokenize, and analyze text data from the Billboard Top 100 hits spanning from 1959 to 2023.\nConducted sentiment analysis and emotion mining using the VADER and NRC lexicons to quantify emotional shifts and linguistic trends in popular music across the decades. Developed data visualizations in R using ggplot2 to chart emotional trajectories and deployed the wordcloud2 package to isolate the most frequent terms.\nCompiled a cohesive report that synthesized advanced natural language processing (NLP) metrics with analytical commentary and data-driven insights.\n\nWinter 2026\n\n\nStats 101C\nIntroduction to Statistical Models and Data Mining\n\nClassification\n\n...\n...\n...\n\nRegression\n\n...\n\nFall 2025\n\n\nStats 140XP\nPractice of Statistical Consulting\n\nConducted exploratory data analysis (EDA) on LAPD traffic collision data to identify patterns and trends. Developed research questions based on insights from the EDA.\nApplied statistical models, using R, to analyze data and draw meaningful conclusions for each research question.\nCompiled and presented results in a comprehensive report, relating findings to external sources.\n\nFall 2025\n\n\nStats 101A\nIntroduction to Data Analysis and Regression\n\nCleaned and conducted exploratory data analysis on raw data sets to identify patterns and trends using Python.\nEvaluated statistical models, selecting the best algorithm based on evaluation metrics and feature importance rankings.\nBuilt an end-to-end pipeline to split data into training and test sets, generating final predictions on unseen data, and exporting results to CSV.\n\nSpring 2024"
+  },
+  {
+    "objectID": "projects.html#project-1-stats-170-final-project---introduction-to-time-series-analysis-1",
+    "href": "projects.html#project-1-stats-170-final-project---introduction-to-time-series-analysis-1",
+    "title": "March 2026 - June 2026",
+    "section": "Project 1: Stats 170 Final Project - Introduction to Time-Series Analysis",
+    "text": "Project 1: Stats 170 Final Project - Introduction to Time-Series Analysis\n\nDeveloped and executed a comprehensive time-series analysis on 13 years of Amazon (AMXN) closing prices to evaluate and forecast log-return trends.\nTested and compared multiple candidate models to justify modeling decisions.\nEvaluated model adequacy by performing diagnostic checks, residual analysis, and autocorrelation testing to validate statistical assumptions.\nDesigned a technical report using Quarto in R to generate data visualizations and document statistical findings.\n\n\nUniversity of California, Los Angeles\n\nClass Projects\n\n\n\n\n\n\n\n\n\n\n\nCourse Number\nCourse Name\nQuarter\n\n\n\n\nSTATS 170\nIntroduction to Time-Series Analysis\n\nDeveloped and executed a comprehensive time-series analysis on 13 years of Amazon (AMXN) closing prices to evaluate and forecast log-return trends.\nTested and compared multiple candidate models to justify modeling decisions.\nEvaluated model adequacy by performing diagnostic checks, residual analysis, and autocorrelation testing to validate statistical assumptions.\nDesigned a technical report using Quarto in R to generate data visualizations and document statistical findings.\n\nSpring 2026\n\n\nSTATS C173\nApplied Geostatistics\n\nEngineered a spatial data pipeline in R to analyze EPA’s Outdoor Air Quality dataset, focusing on Ozone metrics, executing non-spatial exploratory data analysis (EDA) and auditing coordinated structures to ensure unique data points.\nConstructed and analyzed h-scatterplots and empirical variograms to model spatial continuity, directional dependence, and geometric anisotropy across target coordinate spaces.\nDeployed theoretical variogram models and Kriging algorithms to predict continuous Ozone concentrations across unsampled regions throughout California.\nValidated model performance by conducting rigorous cross-validation and residual analysis to quantify prediction error and ensure statistical adequacy\n\nWinter 2026\n\n\nSTATS C173\nApplied Geostatistics\n\nSentence 1\nthe second sentece to show\n\nWinter 2026"
+  },
+  {
+    "objectID": "projects.html#second-try",
+    "href": "projects.html#second-try",
+    "title": "March 2026 - June 2026",
+    "section": "second try",
+    "text": "second try\n\n\n\n\n\n\n\n\n\n\nCourse Number\nCourse Name\nQuarter\n\n\n\n\nSTATS 170\nIntroduction to Time-Series Analysis\n• first sentence. • the second sentence to show\nSpring 2026"
+  },
+  {
+    "objectID": "projects.html#check-again",
+    "href": "projects.html#check-again",
+    "title": "March 2026 - June 2026",
+    "section": "CHeck again",
+    "text": "CHeck again\n\n\n\n\n\n\n\n\n\n\nCourse Number\nCourse Name\nQuarter\n\n\n\n\nSTATS 170\nIntroduction to Time-Series Analysis\n\nDeveloped and executed a comprehensive time-series analysis on 13 years of Amazon (AMXN) closing prices to evaluate and forecast log-return trends.\nthe second sentece to show\n\nSpring 2026"
+  },
+  {
+    "objectID": "projects.html#or",
+    "href": "projects.html#or",
+    "title": "March 2026 - June 2026",
+    "section": "OR",
+    "text": "OR\n\n\n\n\n\n\n\n\nCourse Number\nCourse Name\nQuarter\n\n\n\n\nSTATS 170\nIntroduction to Time-Series Analysis  - Developed and executed a comprehensive time-series analysis on 13 years of Amazon (AMXN) closing prices to evaluate and forecast log-return trends. - Tested and compared multiple candidate models to justify modeling decisions. - Evaluated model adequacy by performing diagnostic checks, residual analysis, and autocorrelation testing to validate statistical assumptions.- Designed a technical report using Quarto in R to generate data visualizations and document statistical findings.\nSpring 2026\n\n\nSTATS C173\nApplied Geostatistics  - Engineered a spatial data pipeline in R to analyze EPA’s Outdoor Air Quality dataset, focusing on Ozone metrics, executing non-spatial exploratory data analysis (EDA) and auditing coordinated structures to ensure unique data points.- Constructed and analyzed h-scatterplots and empirical variograms to model spatial continuity, directional dependence, and geometric anisotropy across target coordinate spaces.- Deployed theoretical variogram models and Kriging algorithms to predict continuous Ozone concentrations across unsampled regions throughout California- Validated model performance by conducting rigorous cross-validation and residual analysis to quantify prediction error and ensure statistical adequacy\nWinter 2026"
+  },
+  {
+    "objectID": "projects.html#other-versions",
+    "href": "projects.html#other-versions",
+    "title": "March 2026 - June 2026",
+    "section": "other versions",
+    "text": "other versions\n\n\n\n\n\n\n\n\n\n\nCourse #\nCourse Name\nQuarter\n\n\n\n\nStats 170\nIntroduction to Time-Series Analysis\n\nDeveloped and executed a comprehensive time-series analysis on 13 years of Amazon (AMXN) closing prices to evaluate and forecast log-return trends.\nTested and compared multiple candidate models to justify modeling decisions.\nEvaluated model adequacy by performing diagnostic checks, residual analysis, and autocorrelation testing to validate statistical assumptions.\nDesigned a technical report using Quarto in R to generate data visualizations and document statistical findings.\n\nSpring 2026\n\n\nStats C173\nApplied Geostatistics\n\nEngineered a spatial data pipeline in R to analyze EPA’s Outdoor Air Quality dataset, focusing on Ozone metrics, executing non-spatial exploratory data analysis (EDA) and auditing coordinated structures to ensure unique data points.\nConstructed and analyzed h-scatterplots and empirical variograms to model spatial continuity, directional dependence, and geometric anisotropy across target coordinate spaces.\nDeployed theoretical variogram models and Kriging algorithms to predict continuous Ozone concentrations across unsampled regions throughout California.\nValidated model performance by conducting rigorous cross-validation and residual analysis to quantify prediction error and ensure statistical adequacy.\n\nWinter 2026\n\n\nStats 141XP\nPractice of Statistical Consulting\n\n...\n...\n...\n\nWinter 2026\n\n\nStats 133\nIntroduction to Text Mining Using R\n\nEngineered a text mining pipeline in R to clean, tokenize, and analyze text data from the Billboard Top 100 hits spanning from 1959 to 2023.\nConducted sentiment analysis and emotion mining using the VADER and NRC lexicons to quantify emotional shifts and linguistic trends in popular music across the decades. Developed data visualizations in R using ggplot2 to chart emotional trajectories and deployed the wordcloud2 package to isolate the most frequent terms.\nCompiled a cohesive report that synthesized advanced natural language processing (NLP) metrics with analytical commentary and data-driven insights.\n\nWinter 2026\n\n\nStats 101C\nIntroduction to Statistical Models and Data Mining\n\nClassification\n\n...\n...\n...\n\nRegression\n\n...\n\nFall 2025\n\n\nStats 140XP\nPractice of Statistical Consulting\n\nConducted exploratory data analysis (EDA) on LAPD traffic collision data to identify patterns and trends. Developed research questions based on insights from the EDA.\nApplied statistical models, using R, to analyze data and draw meaningful conclusions for each research question.\nCompiled and presented results in a comprehensive report, relating findings to external sources.\n\nFall 2025\n\n\nStats 101A\nIntroduction to Data Analysis and Regression\n\nCleaned and conducted exploratory data analysis on raw data sets to identify patterns and trends using Python.\nEvaluated statistical models, selecting the best algorithm based on evaluation metrics and feature importance rankings.\nBuilt an end-to-end pipeline to split data into training and test sets, generating final predictions on unseen data, and exporting results to CSV.\n\nSpring 2024"
   }
 ]

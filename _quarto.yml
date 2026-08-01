@@ -9,7 +9,7 @@ website:
       - href: index.qmd
         text: About
       - href: projects.qmd
-        text: Projects
+        text: Class Projects
       
 
   page-footer:
